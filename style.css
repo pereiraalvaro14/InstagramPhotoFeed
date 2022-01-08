@@ -1,0 +1,44 @@
+h1 {
+    text-align: center;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header h1 {
+    margin: 0;
+    float: center;
+}
+header {
+    background-color: white;
+    padding: 10px;
+}
+h3 {
+    padding: 10px;
+    float: left;
+}
+.dog {
+    background: white;
+    margin-top: 30px;
+}
+.dog img {
+    width: 100%;
+}
+span {
+    float: right;
+    padding: 30px;
+}
+.contenedor {
+    width: 50%;
+    position: relative;
+    margin: auto;
+    height: 100%;
+    background-color: lightgrey;
+    border: 0px solid black;
+}
+body {
+    background-color: lightgrey;
+    margin: 0px;
+}
+.description {
+    padding: 15px;
+    color: grey;
+}
